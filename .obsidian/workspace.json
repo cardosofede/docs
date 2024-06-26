@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hummingbot Proposals/Documentation V2 Framework.md",
+                "file": "Hummingbot Proposals/DCA and Position Executor improvements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hummingbot Proposals/Documentation V2 Framework.md",
+                "file": "Hummingbot Proposals/DCA and Position Executor improvements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hummingbot Proposals/Documentation V2 Framework.md",
+                "file": "Hummingbot Proposals/DCA and Position Executor improvements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hummingbot Proposals/Documentation V2 Framework.md"
+                "file": "Hummingbot Proposals/DCA and Position Executor improvements.md"
               }
             }
           }
@@ -144,13 +144,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "fc00b22487657d6b",
   "lastOpenFiles": [
-    "README.md",
     "Hummingbot Proposals/Documentation V2 Framework.md",
+    "Hummingbot Proposals/DCA and Position Executor improvements.md",
+    "Templates/Proposal.md",
+    "Hummingbot Proposals/Untitled 1.md",
+    "Untitled.md",
+    "Templates",
+    "README.md",
     "Welcome.md",
     "Hummingbot Proposals",
     "LICENSE"
