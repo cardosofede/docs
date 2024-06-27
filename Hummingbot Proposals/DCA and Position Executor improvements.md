@@ -18,4 +18,9 @@
 	- Accept base or quote order amounts
 	- Review possible normalizations and improvements.
 - Execution:
-	- 
+	- Review and improve the control task logic
+	- Define a better standard for the control shutdown process (currently is very messy)
+	- Add functionality to use the connector to query the state of the order in case that the connector didn't managed the lifecycle of the order well
+	- Evaluate if makes sense to accept early stop with "skip_shutdown" (this will not reverse the trade) or if it's better to have another executor that just has one open order an it's not closing it, like the TWAP executor that just places orders in one side.
+	- Improve the close types, currently if we call the early stop method and the executor was not filled will appear as EARLY_STOP, if the order wasn't filled this is just canceling the open order and if the order was filled will be reversing it, but the two of them will have the same close type (usually the first scenario is for order refreshed and we can call it CANCELED or something like that)
+	- General improvements that will benefit the efficiency of the executors are welcome.
