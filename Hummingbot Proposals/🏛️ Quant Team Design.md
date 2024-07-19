@@ -63,4 +63,4 @@ The objective of this document is to explain all the tasks that are needed in or
 - Create / Modify configurations or strategies
 
 ## Procedures
-- [[Deployment]] [Deployment](Deployment.md)
+- ![[Deployment]]
