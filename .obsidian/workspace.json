@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hummingbot Proposals/DCA and Position Executor improvements.md",
+                "file": "Hummingbot Proposals/🏛️ Quant Team Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hummingbot Proposals/DCA and Position Executor improvements.md",
+                "file": "Hummingbot Proposals/🏛️ Quant Team Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hummingbot Proposals/DCA and Position Executor improvements.md",
+                "file": "Hummingbot Proposals/🏛️ Quant Team Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hummingbot Proposals/DCA and Position Executor improvements.md"
+                "file": "Hummingbot Proposals/🏛️ Quant Team Design.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,8 +149,9 @@
   },
   "active": "fc00b22487657d6b",
   "lastOpenFiles": [
-    "Hummingbot Proposals/Documentation V2 Framework.md",
     "Hummingbot Proposals/DCA and Position Executor improvements.md",
+    "Hummingbot Proposals/🏛️ Quant Team Design.md",
+    "Hummingbot Proposals/Documentation V2 Framework.md",
     "Templates/Proposal.md",
     "Hummingbot Proposals/Untitled 1.md",
     "Untitled.md",

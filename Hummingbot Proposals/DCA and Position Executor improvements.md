@@ -1,6 +1,7 @@
 # Proposal
 #proposal 
 
+### Bounty amount $1500
 ### Goal
 - Standardize the configuration classes and improve the execution logic of the **DCAExecutor** and **PositionExecutor**.
 

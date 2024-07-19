@@ -1,6 +1,8 @@
 # Proposal
 #proposal 
 
+### Bounty amount $500
+
 ### Goal
  - Improve the documentation of the v2 strategies since they are becoming mainstream in Hummingbot and the current information provided does not get into much details on how the framework works under the hood.
 
